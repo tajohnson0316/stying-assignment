@@ -1,0 +1,22 @@
+h1 {
+    padding: 10px 10px;
+    color: aqua;
+    background-color: black;
+}
+
+.is-white {
+    color: white;
+}
+
+h2 {
+    color: white;
+    text-align: center;
+    font-style: italic;
+    background-color: rebeccapurple;
+}
+
+h3 {
+    text-decoration: underline;
+    text-align: right;
+    background-color: cornflowerblue;
+}
